@@ -1,29 +1,11 @@
-url: https://stephherbers.github.io
-baseurl: /DSDemo/
+url: "stephherbers.github.io"
+baseurl: "/DSDemo/"
 
 # Site settings
-title: Protfolio of Steph Herbers
+title: Portfolio of Steph Herbers
 email: sherbers489@gmail.com
 description: "Portfolio of Steph's work"
 
-
-# Team names, titles and social links
-people:
-- name: Steph Herbers
-  position: Student of Carleton College Class of 2020
-  github_username: stephherbers
-  social:
-    - title: LinkedIn
-      url: https://www.linkedin.com/in/steph-herbers-carleton/
-
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 300 North College Street
-  - line: Northfield, MN 55057
-
-# Build settings
 markdown: kramdown
-permalink: pretty
-
 remote_theme: y7kim/agency-jekyll-theme
+permalink: pretty
