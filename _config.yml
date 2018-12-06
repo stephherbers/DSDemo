@@ -7,5 +7,5 @@ email: sherbers489@gmail.com
 description: "Portfolio of Steph's work"
 
 markdown: kramdown
-theme: agency-jekyll-theme
+remote_theme: y7kim/agency-jekyll-theme
 permalink: pretty
